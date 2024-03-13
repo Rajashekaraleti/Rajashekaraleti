@@ -63,7 +63,7 @@ Also, I love solving coding problems on leetcode, hackerearth, codechef etc..
 - [Linkedin](https://www.linkedin.com/in/rajashekar-aleti-2bb54b218/)
 
 ## 💡 Additional Insights
-- 🧠 Practicing Algorithms: I enjoy tackling coding challenges on [LeetCode](https://leetcode.com/rajashekar01_/)to enhance my problem-solving skills.
+- 🧠 Practicing Algorithms: I enjoy tackling coding challenges on [LeetCode](https://leetcode.com/rajashekar01_/) to enhance my problem-solving skills.
 
 
 <!--
