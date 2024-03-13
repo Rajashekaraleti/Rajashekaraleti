@@ -52,6 +52,7 @@ Also, I love solving coding problems on leetcode, hackerearth, codechef etc..
 <br>
 <p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/rajashekar-aleti-2bb54b218/" rel="nofollow"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rajashekaraleti"></a>
+<a href="https://www.instagram.com/rajashekar01__/" rel="nofollow"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Rajashekaraleti"></a>
 
 </p>
 
