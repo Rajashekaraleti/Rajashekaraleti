@@ -60,7 +60,7 @@ Also, I love solving coding problems on leetcode, hackerearth, codechef etc..
 - 💬 Ask Me Anything: I'm always happy to help! 😊
 - 📬 How to Reach Me:
 - ✉  rajashekar.aleti01@gmail.com
-- [Let's get in touch!](https://www.linkedin.com/in/rajashekar-aleti-2bb54b218/)
+- [Linkedin](https://www.linkedin.com/in/rajashekar-aleti-2bb54b218/)
 
 ## 💡 Additional Insights
 - 🧠 Practicing Algorithms: I enjoy tackling coding challenges on [LeetCode](https://leetcode.com/rajashekar01_/)to enhance my problem-solving skills.
