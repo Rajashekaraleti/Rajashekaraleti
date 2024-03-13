@@ -9,7 +9,6 @@ I believe you only grow when you learn.
 Also, I love solving coding problems on leetcode, hackerearth, codechef etc..
 
 ## Languages and Tools: 
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -18,7 +17,7 @@ Also, I love solving coding problems on leetcode, hackerearth, codechef etc..
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white)
+![Google Cloud]([https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white](https://img.shields.io/badge/-Cloud-232F3E?logo=Google-cloud&logoColor=blue))
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white)
