@@ -15,13 +15,15 @@ Also, I love solving coding problems on leetcode, hackerearth, codechef etc..
 ![Google Cloud](https://img.shields.io/badge/-Cloud-232F3E?logo=Google-cloud&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ### Show some ❤️ by starring some of the repositories!
 
@@ -59,7 +61,7 @@ Also, I love solving coding problems on leetcode, hackerearth, codechef etc..
 ## 🌐 Explore My Work
 - 💬 Ask Me Anything: I'm always happy to help! 😊
 - 📬 How to Reach Me:
-- ✉  rajashekar.aleti01@gmail.com
+- ✉  ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)rajashekar.aleti01@gmail.com
 - [Linkedin](https://www.linkedin.com/in/rajashekar-aleti-2bb54b218/)
 
 ## 💡 Additional Insights
