@@ -25,7 +25,6 @@ Also, I love solving coding problems on leetcode, hackerearth, codechef etc..
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-### Show some ❤️ by starring some of the repositories!
 
 ## 💻 GitHub Stats
 <p align="center">
